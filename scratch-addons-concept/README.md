@@ -2,7 +2,7 @@
 
 This Scratch project is a design concept that reimagines the [Scratch Addons browser extension](https://scratchaddons.com/). I made it as, for want of a better word, a "mega-suggestion", for the [Scratch Addons](https://github.com/ScratchAddons/ScratchAddons) project, and I guess also as a portfolio.
 
-More information can be found on a discussion post I will [submit to ScratchAddons/ScratchAddons](https://github.com/ScratchAddons/ScratchAddons/discussions) once this is live.
+More information can be found on [this discussion](https://github.com/ScratchAddons/ScratchAddons/discussions/8121).
 
 ## How to use this file
 
